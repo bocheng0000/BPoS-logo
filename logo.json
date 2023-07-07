@@ -311,6 +311,10 @@
       "nickname": "ELA FutureWeb",
       "logo": "future-web.jpg"
     },
+    "03c275d37d013ed348e05d7730fea7a950b6f6cb41a29bbe8a54c5bc8256b4c78d": {
+      "nickname": "Elastos Blockchain",
+      "logo": "gelaxy.jpg"
+    },
      "iZDVie9nYR7Ni4bJjGzBQr6FcM4yNZnMp8": {
       "nickname": "DR",
       "logo": ""
@@ -358,5 +362,9 @@
     "iVJip9RYa9DJxjXpA9sMAtYf1kQUvRRa1z": {
       "nickname": "infi",
       "logo": ""
+    },
+    "iWHbp1TeN7p9pUWKRotkkyC3Cm2cnmrpXS": {
+      "nickname": "gelaxy",
+      "logo": "gelaxy.jpg"
     }
   }
